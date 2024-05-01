@@ -9,3 +9,7 @@ O - Operation
 
 S - System
 
+
+
+Компилируется с помощью FASM
+
